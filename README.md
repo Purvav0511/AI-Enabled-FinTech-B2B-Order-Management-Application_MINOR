@@ -9,9 +9,6 @@ Project Link (Access Restricted due to Copyright)
 https://user-images.githubusercontent.com/46164852/135722773-da373fe1-ee84-4f88-8600-0d7c311ba1ef.mp4
 
 
-<div align="center">
-  <a href="https://youtu.be/ADMaU7DLlt0">Watch it on Youtube</a>
-</div>
 
 ## Abstract
 The B2B world operates differently from the B2C or C2C world. Businesses work with other businesses on credit. When a buyer business orders something from the seller business, the seller business issues an invoice for that order. This invoice contains various information like the details of the goods purchased and when they should be paid.<br/>
