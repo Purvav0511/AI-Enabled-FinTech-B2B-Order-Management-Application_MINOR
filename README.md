@@ -4,10 +4,7 @@
 This project was submitted as a minor project in partial fulfillment of the requirements for the award of the Degree of Bachelor of Technology in Discipline of Engineering
 ```
 
-Project Link (Access Restricted due to Copyright) -
-```
-
-```
+Project Link (Access Restricted due to Copyright)
 
 https://user-images.githubusercontent.com/46164852/135722773-da373fe1-ee84-4f88-8600-0d7c311ba1ef.mp4
 
